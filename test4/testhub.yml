@@ -22,3 +22,27 @@
       solver_calls_made:          543
       solver_calls_failed:            0
       solver_iterations:         1469
+    - inlist: inlist_zams_header
+      runtime_minutes:   1.63
+      model_number:          181
+      star_age:     1.3556717546660318E+06
+      num_retries:            0
+      log_rel_run_E_err:       -10.6386848579244067
+      steps:          543
+      retries:            0
+      redos:            0
+      solver_calls_made:          543
+      solver_calls_failed:            0
+      solver_iterations:         1469
+    - inlist: inlist_zams_header
+      runtime_minutes:   1.65
+      model_number:          181
+      star_age:     1.3556717546660318E+06
+      num_retries:            0
+      log_rel_run_E_err:       -10.6386848579244067
+      steps:          543
+      retries:            0
+      redos:            0
+      solver_calls_made:          543
+      solver_calls_failed:            0
+      solver_iterations:         1469
