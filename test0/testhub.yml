@@ -1,0 +1,12 @@
+    - inlist: inlist_zams_header
+      runtime_minutes:   1.64
+      model_number:          199
+      star_age:     9.2514751201699337E+05
+      num_retries:            1
+      log_rel_run_E_err:       -10.8310342531127404
+      steps:          544
+      retries:            1
+      redos:            0
+      solver_calls_made:          545
+      solver_calls_failed:            1
+      solver_iterations:         1515
