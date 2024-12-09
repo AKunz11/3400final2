@@ -1,2 +1,2 @@
 # 3400final2
-Second attempt at the final project
+Using MESA (Modules for Experiments in Stellar Astrophysics) to explore how the initial metallicity of a gas cloud affects the evolution of the resulting protostar.
