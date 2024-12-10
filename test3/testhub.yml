@@ -46,3 +46,15 @@
       solver_calls_made:          544
       solver_calls_failed:            0
       solver_iterations:         1477
+    - inlist: inlist_zams_header
+      runtime_minutes:   1.66
+      model_number:          183
+      star_age:     1.3622048819092358E+06
+      num_retries:            0
+      log_rel_run_E_err:       -10.7359143065668174
+      steps:          544
+      retries:            0
+      redos:            0
+      solver_calls_made:          544
+      solver_calls_failed:            0
+      solver_iterations:         1477
